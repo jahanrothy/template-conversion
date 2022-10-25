@@ -3,7 +3,7 @@ export default function SamplePage(){
     return (
         <>
              {/* <!-- Page Header--> */}
-             <PageHeaderComponent title={'Man must explore, and this is exploration at its greatest'} subTitle={'Problems look mighty small from 150 miles up'} bgImage={'assets/img/post-bg.jpg'} />
+             <PageHeaderComponent title={'Man must explore'} subTitle={'Problems look mighty small from 150 miles up'} bgImage={'assets/img/post-bg.jpg'} />
 
             {/* <!-- Main Content--> */}
             {/* <!-- Page Header--> */}
