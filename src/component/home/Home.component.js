@@ -50,6 +50,9 @@ export default function HomeComponent() {
                         {/* <!-- Divider--> */}
                         <hr className="my-4" />
                         {/* <!-- Post preview--> */}
+
+
+                        
                         <div className="post-preview">
                             <a href="post.html">
                                 <h2 className="post-title">Failure is not an option</h2>
