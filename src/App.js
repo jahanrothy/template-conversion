@@ -4,7 +4,7 @@ import './App.css';
 import AboutComponent from './component/about/About.component';
 import ContactComponent from './component/contact/Contact.component';
 import HomeComponet from './component/home/Home.component';
-import SamplePage from './component/samplePost/SamplePage.component';
+import SamplePage from './component/post/Post.component';
 import AppLayout from './layouts/AppLayout';
 function App() { 
   return ( 
